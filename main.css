@@ -1,0 +1,13 @@
+body{
+  padding: 50px;
+}
+#box{
+  width: 600px;
+  height: 200px;
+}
+.headbox1, .headbox2, .headbox3{
+  background-color: #00C6D6;
+  height: 40px;
+  color: white;
+  font-size: 20pt;
+}
