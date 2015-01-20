@@ -4,10 +4,18 @@ body{
 #box{
   width: 600px;
   height: 200px;
+
 }
 .headbox1, .headbox2, .headbox3{
   background-color: #00C6D6;
   height: 40px;
   color: white;
   font-size: 20pt;
+}
+.sec1, .sec2, .sec3{
+  height: 0px;
+  overflow: hidden;
+}
+.expand{
+  height: 60px;
 }
