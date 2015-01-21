@@ -4,11 +4,11 @@ var sec1 = $('.sec1');
 
 var head2 = $('.head2');
 
-var sec2 = $('sec2');
+var sec2 = $('.sec2');
 
-var head3 = $('head3');
+var head3 = $('.head3');
 
-var sec3 = $('sec3');
+var sec3 = $('.sec3');
 
 head1.on('click', function(){
   $(sec1).addClass('expand');
